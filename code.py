@@ -7,10 +7,6 @@
 # python code.py physicist-language_mend.bib template.html > index.html
 #
 # The html code will be printed to the standard output ( or to out.html ).
-# 
-# copy to index.html /home/www/htdocs/mpi-doc/sodyn/physicist-language/ 
-# scp index.html gerlach@dinghas:/home/www/htdocs/mpi-doc/sodyn/physicist-language/ 
-
 
 from datetime import date
 import sys
