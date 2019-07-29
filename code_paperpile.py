@@ -5,7 +5,7 @@
 # How to run the program:
 #
 # python code.py physicist-language_mend.bib template.html > index.html
-# python code2.py physicist-language_paperpile.bib template.html > index2.html
+# python code_paperpile.py physicist-language_paperpile.bib template.html > index.html
 
 #
 # The html code will be printed to the standard output ( or to out.html ).
