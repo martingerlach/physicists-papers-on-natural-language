@@ -1,9 +1,9 @@
 # physicists-papers-on-natural-language
 
-Run 
+I organize these references via paperpile here: https://paperpile.com/shared/efkp96
 
-python code.py physicist-language_mend.bib template.html > index.html
+In order to get an html, run:
 
-to get an html from the bib-file.
-
-The bib-file can be obtained from https://www.mendeley.com/groups/1912851/physics-papers-on-natural-language/
+```
+python code_paperpile.py physicist-language_paperpile.bib template.html > index.html
+```
